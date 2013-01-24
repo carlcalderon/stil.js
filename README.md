@@ -10,14 +10,14 @@ stil.js is available from the node package manager (npm).
 
 ## Usage
 
-```javascript
+![example.js](http://carlcalderon.github.com/stil.js/stil-snapshot.jpg?v=1)
 
+```javascript
 'this is bold'.asBold
 
 'ERROR!'.black.onRed
 
 'For some this will blink'.asBlink
-
 ```
 
 For more combos and styles, see `$ node example.js`.

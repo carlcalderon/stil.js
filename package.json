@@ -1,6 +1,6 @@
 {
   "name": "stil",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "style node.js command-line output with ease",
   "keywords": [
     "style",
