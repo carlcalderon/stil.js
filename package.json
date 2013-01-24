@@ -1,0 +1,34 @@
+{
+  "name": "stil",
+  "version": "1.0.0",
+  "description": "style node.js command-line output with ease",
+  "keywords": [
+    "style",
+    "color",
+    "command-line",
+    "stil",
+    "bold"
+  ],
+  "author": {
+    "name": "Carl Calderon",
+    "email": "hello@carlcalderon.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carlcalderon/stil.js.git"
+  },
+  "scripts": {
+    "example": "node example.js"
+  },
+  "main": "index",
+  "engines": {
+    "node": ">= 0.8.x"
+  },
+  "licenses": [
+    {
+      "type": "Beerware",
+      "url": "http://en.wikipedia.org/wiki/Beerware"
+    }
+  ],
+  "_from": "stil"
+}
